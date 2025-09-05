@@ -31,7 +31,7 @@
 
 ---
 
-📊 GitHub Stats  
+📊 GitHub Stats 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahugaz&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahugaz&theme=radical" alt="streak" />
