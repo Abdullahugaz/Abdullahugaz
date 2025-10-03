@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abdullah Ugaz</h1>
 <h3 align="center">Front End Developer | Transitioning to Fullstack | Open Source Enthusiast</h3>
 
----  
+----
 
 🧑‍💻 About Me
 
