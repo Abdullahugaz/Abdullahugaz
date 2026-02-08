@@ -25,9 +25,15 @@
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Thunder_Client-7B3FE4?logo=thunder-client&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vs_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ---
 
