@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abdullah Ugaz</h1>
-<h3 align="center">Front End Developer | Transitioning to Fullstack | Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Developer 🚀 | PHP • Laravel • Vue.js • Node.js • NestJS • MySQL | Building Real-World Applications</h3>
 
 ----
 
