@@ -5,8 +5,10 @@
 
 🧑‍💻 About Me
 
-- 🔭 I’m currently working on improving my Fullstack skills  
-- 🌱 I’m learning React.js, Node.js, Express, MongoDB  
+- 🔭 I'm currently building scalable full-stack web applications
+- 🌱 I'm exploring cloud technologies, Docker, and system design
+- 💬 Ask me about Laravel, NestJS, Vue.js, React.js, Node.js, MySQL, PostgreSQL, and REST APIs
+- 👯 I'm open to collaborating on open-source and real-world SaaS projects
 - 📫 How to reach me: [abdullahugaz@gmail.com]  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Git**  
 - 👯 I’m looking to collaborate on real-world projects and internships  
@@ -53,7 +55,7 @@
 
 📊 GitHub Stats 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahugaz&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahugaz&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahugaz&theme=radical" alt="streak" />
 </p>
 
