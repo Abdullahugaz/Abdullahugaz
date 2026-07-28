@@ -54,9 +54,9 @@
 ---
 
 📊 GitHub Stats 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullahugaz&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahugaz&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Abdullahugaz&theme=radical&hide_border=true" />
 </p>
 
 ---
