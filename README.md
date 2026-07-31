@@ -9,9 +9,7 @@
 - 🌱 I'm exploring cloud technologies, Docker, and system design
 - 💬 Ask me about Laravel, NestJS, Vue.js, React.js, Node.js, MySQL, PostgreSQL, and REST APIs
 - 👯 I'm open to collaborating on open-source and real-world SaaS projects
-- 📫 How to reach me: [abdullahugaz@gmail.com]  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git**  
-- 👯 I’m looking to collaborate on real-world projects and internships  
+- 📫 How to reach me: [abdullahugaz@gmail.com]   
 - ⚡ Fun fact: I watch anime and love to write clean code 💻  
 
 ---
