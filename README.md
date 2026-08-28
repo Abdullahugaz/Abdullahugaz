@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abdullah Ugaz</h1>
 <h3 align="center">Full Stack Developer 🚀 | PHP • Laravel • Vue.js • Node.js • NestJS • React.js MySQL | Building Real-World Applications</h3>
 
----
-
+--
 🧑‍💻 About Me
 
 - 🔭 I'm currently building scalable full-stack web applications
